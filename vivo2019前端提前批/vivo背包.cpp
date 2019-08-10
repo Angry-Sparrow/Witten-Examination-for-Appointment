@@ -19,6 +19,7 @@ int max(int a,int b)
 int findBest(int prices[],int vals[],int len,int total)
 {
 	int re = 0;
+	//处理下标
 	int* p = new int[len+1];
 	int* v = new int[len+1];
 	p[0] = 0;
@@ -28,6 +29,8 @@ int findBest(int prices[],int vals[],int len,int total)
 		p[i] = prices[i-1];
 		v[i] = vals[i-1];
 	}
+
+	//核心算法
 	int f[ARRAY_MAX][ROW_MAX] = {0};
 	for (int i = 1; i <= len; i++) {
 		for (int j = 1; j <= total; j++) {
