@@ -1,4 +1,6 @@
-
+// 暴力解，有更好的解请一定call我，给我留个言发个邮件也好呀。
+// 邮箱：beqan2016@163.com
+// 救救孩子吧！
 import java.util.Scanner;
 import java.util.Arrays;
 public class three02 {
