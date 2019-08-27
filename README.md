@@ -9,4 +9,4 @@
 <h3>华为2019年8月21日软开笔试答案，分别ac: 100% 100% 90%</h3>
 其中第三题未能完全AC，如有更优解望留言告知，或联系底部邮箱。感谢！
 
-<strong style:“color:red”>e-mail: beqan2016@163.com</strong>
+<strong style=“color:red”>e-mail: beqan2016@163.com</strong>
