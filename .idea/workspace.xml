@@ -12,22 +12,23 @@
     <session id="-864880622">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
-          <entry key="js" value="6" />
+          <entry key="java" value="5" />
+          <entry key="js" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JAVA" value="5" />
+          <entry key="JavaScript" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -56,6 +57,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/网易刷题/网易-2017-选择.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/网易刷题/网易-2018-02.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -66,9 +78,70 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vivo2019前端提前批/exam3.java">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/网易刷题/网易-2018-03.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/背包问题合集/Backpack01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer-JavaScript版本/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/LeetCode-3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/360笔试2019/three01.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/360笔试2019/three02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#1541#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -101,8 +174,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="735" />
-    <option name="y" value="51" />
+    <option name="x" value="303" />
+    <option name="y" value="104" />
     <option name="width" value="1203" />
     <option name="height" value="1100" />
   </component>
@@ -111,9 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,19 +195,56 @@
             <path>
               <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="360笔试2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
               <item name="vivo2019前端提前批" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer-JavaScript版本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="华为软开笔试2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="大疆2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="网易刷题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witten-Examination-for-Appointment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witten-Examination-for-Appointment" type="462c0819:PsiDirectoryNode" />
+              <item name="背包问题合集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564737697137" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../笔试训练" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -192,16 +300,18 @@
       <updated>1564664464011</updated>
       <workItem from="1564664466978" duration="14243000" />
       <workItem from="1566304962459" duration="344000" />
+      <workItem from="1567242476056" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14587000" />
+    <option name="totallyTimeSpent" value="14686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="735" y="51" width="1203" height="1100" extended-state="0" />
+    <frame x="303" y="104" width="1203" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30183727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30708662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,31 +348,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-01.js" />
+    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-02.js" />
+    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-03.js" />
+    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2017-选择.js" />
+    <entry file="file://$PROJECT_DIR$/vivo2019前端提前批/exam1.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-02.js">
+    <entry file="file://$PROJECT_DIR$/vivo2019前端提前批/exam3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网易刷题/网易-2018-02.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2018-03.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/校招前端编程/网易-2017-选择.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -275,10 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vivo2019前端提前批/exam1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网易刷题/网易-2018-02.js">
+    <entry file="file://$PROJECT_DIR$/网易刷题/网易-2017-选择.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -287,8 +385,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vivo2019前端提前批/exam3.java">
+    <entry file="file://$PROJECT_DIR$/网易刷题/网易-2018-03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/背包问题合集/Backpack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer-JavaScript版本/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/LeetCode-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360笔试2019/three01.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360笔试2019/three02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#1541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
