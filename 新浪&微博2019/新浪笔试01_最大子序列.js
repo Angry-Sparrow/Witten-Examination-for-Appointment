@@ -88,4 +88,3 @@ function getMaxSumSeqArr(input) {
     }
     console.log(str);
 }
-
